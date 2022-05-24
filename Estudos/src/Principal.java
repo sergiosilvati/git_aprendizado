@@ -4,5 +4,6 @@ public class Principal {
 		System.out.println("teste");
 		System.out.println("Commit no Branch");
 		System.out.println("Segundo commit no branch");
+		System.out.println("Terceiro commit no branch");
 	}
 }
