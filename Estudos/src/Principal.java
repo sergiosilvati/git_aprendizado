@@ -7,5 +7,7 @@ public class Principal {
 		System.out.println("Terceiro commit no branch");
 		System.out.println("Quarto Commit");
 		System.out.println("Quinto commit");
+		System.out.println("Sexto commit");
+		
 	}
 }
